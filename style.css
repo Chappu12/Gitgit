@@ -12,3 +12,13 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+
+nav{
+    background-color: #333;
+    color: #fff;
+}
+
+nav a{
+    
+    color: #fff;
+}
