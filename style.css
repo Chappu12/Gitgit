@@ -36,3 +36,8 @@ nav a{
     font-size: larger;
     font-weight: 600;
 }
+
+.main{
+    background-color: black;
+    color: white;
+}
