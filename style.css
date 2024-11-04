@@ -46,6 +46,14 @@ body {
     text-align: center;
 }
 
+.btn{
+    background-color: aqua;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
 .footer{
     background-color: aquamarine;
     color: black;
